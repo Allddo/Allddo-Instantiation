@@ -19,6 +19,7 @@ public class Lab {
      */
     public Object instantiateANewObject(){
         Lab tempObj = new Lab();
+        
         return tempObj;
     }
 }
